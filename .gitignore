@@ -1,0 +1,15 @@
+# Keil
+Objects/
+Listings/
+*.uvguix.*
+*.uvoptx
+
+# STM32CubeIDE
+Debug/
+Release/
+.metadata/
+
+# Temporary files
+*.bak
+*.tmp
+*.log
